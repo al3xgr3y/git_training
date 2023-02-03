@@ -1,2 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 Changing Alice on GitHub!
+=======
+Second line.
+yet another change
+>>>>>>> ee0c18f (Add conflicting text to Alice)
